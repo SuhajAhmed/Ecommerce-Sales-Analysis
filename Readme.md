@@ -1,4 +1,4 @@
-# 📊 Ecommerce Sales Analysis - Excel Dashboard
+# 📊 E-commerce Sales Analysis - Excel Dashboard
 
 ## 🚀 Project Overview  
 This project provides an in-depth analysis of eCommerce sales performance using **Microsoft Excel**. It includes key insights on **sales trends, profit margins, order quantities, and category-wise performance**, presented in a visually engaging dashboard.  
@@ -21,7 +21,11 @@ This project provides an in-depth analysis of eCommerce sales performance using 
 ✅ **Excel Dashboard Design** - Professional visualization layout  
 
 ## 📸 Dashboard Preview  
-![Ecommerce Dashboard](images/dashboard.png)  
+![Ecommerce Dashboard](Dashboard.png)  
+![Combo Chart](Combo.png) 
+![Pie Chart](Chart.png) 
+![Mao Chart](Map.png) 
+![Sales Chart](Waterfall.png) 
 
 ## 📥 How to Access the Excel File  
 1. Download **`Ecommerce_Sales_Analysis.xlsx`** from this repository.  
@@ -35,5 +39,6 @@ This project provides an in-depth analysis of eCommerce sales performance using 
 - Automate data refresh using **Power Query**  
 - Integrate **Power BI** for advanced interactive reports  
 - Add **forecasting models** for sales prediction  
+
 
 
